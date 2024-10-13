@@ -1,1 +1,2 @@
 # ln
+seodatascience@speed.app
